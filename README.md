@@ -6,9 +6,11 @@
 
 ## 🛠️ Skills
 
+Generative AI | RAG | Python | Presentation to Stakeholders | Tableau | SQL | Databricks | Azure Cloud | LLM | Prompt Engineering | Power BI | Powerpoint | Data Mining | Chairing Agile Meetings
 
+## 🔗 Links
 
-
+https://www.linkedin.com/in/ciaran27ryan/ 
 
 
 <!---
