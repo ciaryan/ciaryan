@@ -20,6 +20,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![GoogleGenAI](https://img.shields.io/badge/Google_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+Currently undertaking a Professional Machine Learning Engineer course from Google.
 
 ### Packages
 
