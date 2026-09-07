@@ -1,49 +1,47 @@
-## 💁🏻‍♂️ About me
+## About me
 
-- 🎓 Hi, I’m Ciarán (keer-AWN), a Data Scientist based in London working in ML model design and Generative AI prompt flows and workflows. I have a Masters degree in Statistics (1:1) from University College Dublin, and a BSc in Medicinal Chemistry (1:1) also from UCD. 
-- 🚀 I’m currently working on using Generative AI models to automate laborious processes for clients, but keeping to my ML and Statistics roots! Not all problems can be solved with AI, and I am enjoying finding out where those limitations are.
-- 🌱 I’m currently learning Prompt Flows using Azure ML Studio, revising my Deep Learning methods using TensorFlow, and always love hearing new ideas for presentations of findings to non-technical audiences.
-- 📫 How to reach me: linkedin.com/in/ciaran27ryan
-- ⚡ Fun fact: My profile picture is me playing the bass for my band Bee Jar. Catch us on Spotify soon!
+Hi, I'm Ciarán (keer-AWN) — an AI Engineer and Data Scientist at the **Government Digital Service**, where I work on [Gov UK Chat](https://gds.blog.gov.uk/2026/05/14/gov-uk-chat-launches/). I integrate LLMs, build RAG evaluation pipelines, and design agentic architectures for public services.
 
-## 🛠️ Skills
+Previously I was a Data Scientist & Strategist at **Publicis Sapient**, leading work across audience segmentation, graph ML recommendation engines, and multi-agent prototyping for executive decision-making.
 
+I hold a First Class Honours MA in Statistics and a BSc in Medicinal Chemistry from University College Dublin. I'm a Google Certified ML Engineer and AWS Certified AI Practitioner.
 
-### Languages / Programs
+I'm interested in how agentic workflows and LLMs can be applied responsibly at scale — AI for the public good.
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-28B6F6?style=for-the-badge&logo=R&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF7F00?style=for-the-badge&logo=databricks&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- 🌐 [ciaryan.com](https://ciaryan.com)
+- 🎸 I play bass in [My Gazebo](https://mygazebomusic.com) — an incipient indie rock band. Play the game to hear our first song!
+
+## Skills
+
+### Languages & Platforms
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![GoogleGenAI](https://img.shields.io/badge/Google_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF7F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-Currently undertaking a Professional Machine Learning Engineer course from Google.
+### AI & ML
 
-### Packages
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-6B21A8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Architecture-2563EB?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-059669?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google ML](https://img.shields.io/badge/Google_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FFA756?style=for-the-badge&logo=tensorflow&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D30000?style=for-the-badge&logo=keras&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikitlearn-28B6F6?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![Pandas](https://img.shields.io/badge/Pandas-000080?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-40E0D0?style=for-the-badge&logo=numpy&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+## Open Source
 
-## 📈 Stats
+Contributed a [datetime string input fix](https://github.com/ciaryan/neomodel/commit/50dd11f3c7970c6ec4a7430d80e37afdc6abf0c6) to [neomodel](https://github.com/neo4j-contrib/neomodel), the Python OGM for Neo4j — merged into the [v5.3.2 release](https://github.com/neo4j-contrib/neomodel/pull/816).
 
-[![Ciarán's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciaryan&show_icons=true)](https://github.com/ciaryan/github-readme-stats)
+## Stats
 
+[![Ciarán's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciaryan&show_icons=true)](https://github.com/ciaryan)
 
-## 🔗 Links
+## Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ciaran27ryan/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ciaryan)
-
-
-<!---
-ciaryan/ciaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ciaran27ryan/)
+[![website](https://img.shields.io/badge/ciaryan.com-18181B?style=for-the-badge&logo=safari&logoColor=white)](https://ciaryan.com)
